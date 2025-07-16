@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\23a31a0007\\soro_create-main\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\23a31a0007\\soro_create-main\\my project\\assets\\game\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\game\\daynightcyclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\daynightcyclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\game\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\game\\warppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\warppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\game\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\game\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\game\\randomeventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\randomeventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\23a31a0007\\soro_create-main\\My project\\assets\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewMonoBehaviourScript.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\NewMonoBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\NewMonoBehaviourScript.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\NewMonoBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Game\\NewMonoBehaviourScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:29:33.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DayNightCycleManager.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\DayNightCycleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\DayNightCycleManager.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\DayNightCycleManager.cs",
+              "RelativeToolTip": "Assets\\Game\\DayNightCycleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:29:10.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResourceNode.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\ResourceNode.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\ResourceNode.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\ResourceNode.cs",
+              "RelativeToolTip": "Assets\\Game\\ResourceNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:06:58.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarpPoint.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\WarpPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\WarpPoint.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\WarpPoint.cs",
+              "RelativeToolTip": "Assets\\Game\\WarpPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:06:14.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\InventoryManager.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Game\\InventoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:04:54.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\GameManager.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Game\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:02:50.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UIManager.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Game\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:02:11.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Player\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerStats.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Player\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:01:13.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerHealth.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:00:21.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RandomEventManager.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\RandomEventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\RandomEventManager.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Game\\RandomEventManager.cs",
+              "RelativeToolTip": "Assets\\Game\\RandomEventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:58:30.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Enemy\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyAI.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Enemy\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Enemy\\EnemyAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:57:04.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:53:50.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "D:\\23a31a0007\\soro_create-main\\My project\\Assets\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:53:46.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
